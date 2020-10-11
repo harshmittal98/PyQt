@@ -23,3 +23,10 @@ Anaconda:
 ```
 conda install -c anaconda pyqt 
 ```
+
+## Execute code
+
+```
+cd script/
+python3 test.py
+```
