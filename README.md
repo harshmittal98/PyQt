@@ -17,3 +17,9 @@ pip install PyQt5
 # For Python3
 pip3 install PyQt5
 ```
+
+
+Anaconda:
+```
+conda install -c anaconda pyqt 
+```
